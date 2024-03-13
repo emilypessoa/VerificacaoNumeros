@@ -2,32 +2,32 @@
 Este é um projeto em PHP e HTML que permite aos usuários verificar várias propriedades de números, como paridade, redondeza e sinal. Ele fornece uma interface simples para inserir números e exibe os resultados das verificações.
 
 ## Funcionalidades
-📍 Verificação se um número é par ou ímpar.  
-📍 Verificação se um número é redondo (divisível por 10) ou não.  
-📍 Verificação se um número é positivo, negativo ou neutro (zero).
+📍 Verificação se um número é par ou ímpar.   
+📍 Verificação se um número é redondo (divisível por 10) ou não.    
+📍 Verificação se um número é positivo, negativo ou neutro (zero).  
 
 ## Pré-requisitos
 Para executar este projeto em seu ambiente local, você precisa ter o seguinte instalado:
 
-📍 Um servidor web (por exemplo, Apache, Nginx).  
-📍 PHP (versão 7.x recomendada).
+📍 Um servidor web (por exemplo, Apache, Nginx).    
+📍 PHP (versão 7.x recomendada).  
 ### Como Instalar
-📍 Clone este repositório em sua máquina local usando o seguinte comando:  
-📍 git clone https://github.com/emilypessoa/ParImpar.git
+📍 Clone este repositório em sua máquina local usando o seguinte comando:    
+📍 git clone https://github.com/emilypessoa/ParImpar.git  
 
 ### Como Usar
-📍 Inicie seu servidor web local.  
-📍 Abra o arquivo index.php em seu navegador web.  
-📍 Insira um número no campo fornecido e clique no botão correspondente para verificar se é par ou ímpar, redondo ou não, e positivo, negativo ou neutro (zero).  
-📍 Você verá os resultados das verificações exibidos na página.
+📍 Inicie seu servidor web local.    
+📍 Abra o arquivo index.php em seu navegador web.    
+📍 Insira um número no campo fornecido e clique no botão correspondente para verificar se é par ou ímpar, redondo ou não, e positivo, negativo ou neutro (zero).    
+📍 Você verá os resultados das verificações exibidos na página.  
 
 ### Estrutura do Projeto
 Aqui está uma visão geral da estrutura de arquivos do projeto:
 
 verificacao-numeros/
-📍 index.php       # Arquivo principal com a interface do usuário e lógica PHP  
-📍 README.md       # Este arquivo README  
-📍 styles.css      # Arquivo CSS para estilização da interface  
+📍 index.php       # Arquivo principal com a interface do usuário e lógica PHP    
+📍 README.md       # Este arquivo README    
+📍 styles.css      # Arquivo CSS para estilização da interface    
 
 ## Fontes consultadas
  [PHP.NET](https://www.php.net/) 

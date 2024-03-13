@@ -24,7 +24,7 @@ Para executar este projeto em seu ambiente local, você precisa ter o seguinte i
 ### Estrutura do Projeto
 Aqui está uma visão geral da estrutura de arquivos do projeto:
 
-verificacao-numeros/
+verificacao-numeros/  
 📍 index.php       # Arquivo principal com a interface do usuário e lógica PHP    
 📍 README.md       # Este arquivo README    
 📍 styles.css      # Arquivo CSS para estilização da interface    
